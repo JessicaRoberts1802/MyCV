@@ -79,4 +79,9 @@ body {
       footer {
         height: 10px;
         margin-bottom: auto;
+        align-items: center;
+        margin: 5px;
+        font-style: oblique;
+        font-size: large;
+        font-weight: bold
       }
