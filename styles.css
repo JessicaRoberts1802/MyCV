@@ -80,6 +80,8 @@ body {
         height: 10px;
         margin-bottom: auto;
         align-items: center;
+        text-align: center;
+        padding: 5px;
         margin: 5px;
         font-style: oblique;
         font-size: large;
